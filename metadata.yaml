@@ -1,11 +1,16 @@
 _repo: The-Mirror-of-Alchimy_58393
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58393-h/images/cover.jpg
 creator:
   author:
     agent_name: Bacon, Roger
     gutenberg_agent_id: '49923'
     url: http://www.gutenberg.org/2009/agents/49923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58393#The-Mirror-of-Alchimy
 gutenberg_issued: '2018-12-01'
 gutenberg_type: Text
 identifiers:
